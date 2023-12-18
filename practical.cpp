@@ -6,7 +6,7 @@ int main() {
 
 
 	cout << "Hello \n";
-
+	cout << "Bye! \n";
 
 
 
